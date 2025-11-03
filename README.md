@@ -4,14 +4,14 @@ Atividades: Da programação orientada a Objetos
 # Atividades Práticas – Outubro
 
 Este repositório contém as atividades desenvolvidas durante o mês de outubro, no contexto do curso **Da Programação Orientada a Objetos ao Desenvolvimento Web com Django**.
-
+A atividade TO DO esta junto com a lista de exercicio
 ##  Disciplina: Desenvolvimento Web
 
-**Nome:** Kadidja  
+**Nome:** Wânia Oliveira
 
-**Curso:** [Nome do curso ou turma]  
+**Curso:** [Desenvolvimento Web _TDS]  
 
-**Professora:** [Nome da Professora]
+**Professora:** [Kadidja Valeria]
 
 ##  Estrutura do Repositório
 
